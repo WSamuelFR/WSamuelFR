@@ -5,6 +5,9 @@
 > * I entered university in 2023 and expect to graduate in 2026.
 > * My programming languages ​​are varied, but I am most familiar with JAVA and PHP.
 
+<div>
+  <img src="gokupc.jpg" alt="sayagin developer" style="width: 400px; height: 300px;">
+</div>
 
 MY SOCIAL MEDIAS | GITHUB STATUS
 :---------: | :---------:
