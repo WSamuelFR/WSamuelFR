@@ -5,12 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <table style="width: 90%; margin: 20px auto; border-collapse: collapse; font-family: Arial, sans-serif; background-color: #f4f4f9;">
+    <table style="width: 100%; margin: 20px auto; border-collapse: collapse; font-family: Arial, sans-serif; background-color: #f4f4f9;">
         <tr>
             <td colspan="2" style="text-align: center; padding: 20px;">
                 <h1 style="font-size: 2em; color: #333;">Hello, Welcome to My GitHub</h1>
             </td>
-              <tr>
+        </tr>
+        <tr>
             <td colspan="2" style="padding: 20px;">
                 <table style="width: 100%; border-collapse: collapse; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
                     <thead>
@@ -49,12 +50,12 @@
             </td>
         </tr>
         <tr>
-            <td style="padding: 20px; width: 50%; text-align: center;">
+            <td colspan="2" style="padding: 20px; text-align: center;">
                 <img src="gokupc.jpg" alt="sayagin developer" style="width: 585px; height: 300px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
             </td>
-        </tr>
+        </tr> 
         <tr>
-            <td colspan="2" style="text-align: center; padding: 50px;">
+            <td colspan="2" style="padding: 20px; text-align: center;">
                 <div style="display: flex; justify-content: center; margin-top: 50px;">
                     <a href="https://www.instagram.com/wsamuelfr" style="text-decoration: none; margin: 0 50px;">
                         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="width: 150px; height: 50px;">
@@ -66,7 +67,7 @@
             </td>
         </tr>
         <tr>
-            <td colspan="2" style="text-align: center; padding: 20px;">
+            <td colspan="2" style="padding: 20px; text-align: center;">
                 <img src="https://github-readme-stats.vercel.app/api?username=WSamuelFR&show_icons=true&theme=cobalt" alt="Wesley Samuel GitHub stats" style="width: 100%; max-width: 600px; border-radius: 10px;">
             </td>
         </tr>
