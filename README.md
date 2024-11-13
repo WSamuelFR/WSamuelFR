@@ -57,10 +57,10 @@
         <tr>
             <td colspan="2" style="padding: 20px; text-align: center;">
                 <div style="display: flex; justify-content: center; margin-top: 50px;">
-                    <a href="https://www.instagram.com/wsamuelfr" style="text-decoration: none; margin: 0 50px;" target="_blank">
+                    <a href="https://www.instagram.com/wsamuelfr" target=”_blank” style="text-decoration: none; margin: 0 50px;">
                         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="width: 150px; height: 50px;">
                     </a>
-                    <a href="https://www.linkedin.com/in/wesley-samuel-265aba2b4" style="text-decoration: none; margin: 0 50px;" target="_blank">
+                    <a href="https://www.linkedin.com/in/wesley-samuel-265aba2b4" target=”_blank” style="text-decoration: none; margin: 0 50px;">
                         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 150px; height: 50px;">
                     </a>
                 </div>
