@@ -13,7 +13,7 @@
         </tr>
         <tr>
             <td colspan="2" style="padding: 20px;">
-                <table style="width: 100%; border-collapse: collapse; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+                <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif; background-color: #f4f4f9;">
                     <thead>
                         <tr>
                             <th style="padding: 12px; text-align: center; background-color: #007bff; color: white;">Informação</th>
