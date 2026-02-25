@@ -1,14 +1,12 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=200&section=header&text=Wesley%20Samuel&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Status-Estudando-brightgreen?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Local-Paraíba,%20Brasil-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Role-Software%20Developer-orange?style=for-the-badge" />
-  </p>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Wesley%20Samuel%20(Samuel)&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Estudando-brightgreen?style=for-the-badge&logo=bookstack&logoColor=white" alt="Status Badge">
+  <img src="https://img.shields.io/badge/Local-Paraíba%2C%20Brasil-00c6ff?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge">
+  <img src="https://img.shields.io/badge/Formatura-2026-111111?style=for-the-badge&logo=graduationcap&logoColor=00c6ff" alt="Graduation Badge">
+</p>
+
+---
 
 <table align="center" style="border: none; background: transparent;">
   <tr>
@@ -28,88 +26,66 @@
   </tr>
 </table>
 
-<br>
+---
 
-<h2 align="center">🚀 Projetos em Destaque</h2>
-
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" width="33%" style="border: none; padding: 10px;">
-      <a href="https://github.com/WSamuelFR/movie-analytics-pro">
-        <img src="movie-analytics-pro/prints/print_main.png" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" alt="Movie Analytics Pro" />
-        <br><b>Movie Analytics Pro</b><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="33%" style="border: none; padding: 10px;">
-      <a href="https://github.com/WSamuelFR/payguardian">
-        <img src="payguardian/prints/tela.png" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" alt="PayGuardian" />
-        <br><b>PayGuardian</b><br>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="33%" style="border: none; padding: 10px;">
-      <a href="https://github.com/WSamuelFR/projeto_memorize">
-        <img src="projeto_memorize/prints/lobby_java.jfif" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" alt="Projeto Memorize" />
-        <br><b>Projeto Memorize</b><br>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
+### 🧠 Tech Radar
 <div align="center">
-  <h2>🛠️ Tech Stack</h2>
-  <p>
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  </p>
+  <img align="center" alt="Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;&nbsp;
+  <img align="center" alt="Python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
+  <img align="center" alt="Kotlin" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />&nbsp;&nbsp;
+  <img align="center" alt="PHP" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />&nbsp;&nbsp;
+  <img align="center" alt="JavaScript" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  <img align="center" alt="HTML" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;
+  <img align="center" alt="CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+  <img align="center" alt="MySQL" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;
+  <img align="center" alt="Git" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
-<br>
+---
 
-<h2 align="center">📊 Estatísticas de Desenvolvedor</h2>
+### 🛠️ Toolbox de impacto
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WSamuelFR&show_icons=true&theme=cobalt&count_private=true" height="185em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSamuelFR&layout=compact&theme=cobalt&hide_langs=html,css" height="185em" />
-</div>
+  
+| Área | Ferramentas & Stacks |
+| --- | --- |
+| **Data & AI** | Python, Pandas, Scikit-Learn, Streamlit |
+| **Mobile Development** | Kotlin, Jetpack Compose, SQLite |
+| **Backend & Web** | Java SE, PHP, Laravel, Node.js |
+| **Desktop** | Java Swing, AWT |
+| **Infra & Suporte** | Manutenção de Hardware, Redes, Linux |
 
+</div>  
+
+---
+
+### 🚀 Projetos em destaque (WSistemas)
+ <div align="center">
+   
+| | Vitrine Técnica ||
+| --- | --- | -- |
+| **Movie Analytics Pro** | **PayGuardian** | **Projeto Memorize** |
+| <a href="https://github.com/WSamuelFR/movie-analytics-pro" target="_blank"><img height="150" width="230" src="https://github.com/WSamuelFR/movie-analytics-pro/blob/main/prints/print_main.png?raw=true" alt="Movie Analytics Pro"></a> | <a href="https://github.com/WSamuelFR/payguardian" target="_blank"><img height="150" width="230" src="https://github.com/WSamuelFR/payguardian/blob/main/prints/tela.png?raw=true" alt="PayGuardian"></a> | <a href="https://github.com/WSamuelFR/projeto_memorize" target="_blank"><img height="150" width="230" src="https://github.com/WSamuelFR/projeto_memorize/blob/main/prints/lobby_java.jfif?raw=true" alt="Projeto Memorize"></a> 
+| *Análise de Dados & IA* | *Finanças em Kotlin* | *Estudo Desktop em Java* | 
+
+</div>
 <br>
 
-<h3 align="center">📂 Vitrine Técnica: WSistemas</h3>
-<div align="center">
-  <ol align="left" style="display: inline-block;">
-    <li><b>Movie Analytics Pro:</b> IA e Análise de Dados em Python.</li>
-    <li><b>PayGuardian:</b> Gestão Financeira Mobile em Kotlin.</li>
-    <li><b>Projeto Memorize:</b> Ferramenta de Estudo Desktop em Java.</li>
-  </ol>
-</div>
+Clique em qualquer card para explorar o código. Cada repositório contém documentação detalhada, análise de requisitos e guias de execução.
 
-<br>
+---
 
-<h2 align="center">📫 Conecte-se Comigo</h2>
+### 🤝 Vamos nos conectar?
 <div align="center">
   <a href="https://www.linkedin.com/in/wesley-samuel-265aba2b4" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/wsamuelfr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/wsistemasfr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://wa.me/5583996029026" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Converse-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:wesleysamuelfr@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-Contatos-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
-<br>
-<hr>
-<p align="center">
-  <b>Produzido por WSistemas</b><br>
-  <i>Inovação através do código.</i>
-</p>
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=160&section=footer&animation=twinkling&text=Construindo%20o%20futuro%20bit%20a%20bit%20💻&fontColor=ffffff&fontSize=22" />
