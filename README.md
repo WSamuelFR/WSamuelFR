@@ -62,41 +62,48 @@
 
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
-  <ol style="display: inline-block; text-align: left;">
-    <li style="margin-bottom: 15px;">
-      <b>Linguagens de Programação:</b><br>
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-      <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-    </li>
-    <li style="margin-bottom: 15px;">
-      <b>Web & Design:</b><br>
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
-    </li>
-  </ol>
+  <p>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  </p>
 </div>
 
 <br>
 
 <h2 align="center">📊 Estatísticas de Desenvolvedor</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WSamuelFR&show_icons=true&theme=cobalt&count_private=true&hide_border=false" height="195em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSamuelFR&layout=compact&theme=cobalt&hide_langs=html,css&hide_border=false" height="195em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WSamuelFR&show_icons=true&theme=cobalt&count_private=true" height="185em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSamuelFR&layout=compact&theme=cobalt&hide_langs=html,css" height="185em" />
+</div>
+
+<br>
+
+<h3 align="center">📂 Vitrine Técnica: WSistemas</h3>
+<div align="center">
+  <ol align="left" style="display: inline-block;">
+    <li><b>Movie Analytics Pro:</b> IA e Análise de Dados em Python.</li>
+    <li><b>PayGuardian:</b> Gestão Financeira Mobile em Kotlin.</li>
+    <li><b>Projeto Memorize:</b> Ferramenta de Estudo Desktop em Java.</li>
+  </ol>
 </div>
 
 <br>
 
 <h2 align="center">📫 Conecte-se Comigo</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/wesley-samuel-265aba2b4" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/wesley-samuel-265aba2b4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/wsamuelfr" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/wsamuelfr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
