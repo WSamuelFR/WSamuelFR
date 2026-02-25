@@ -82,7 +82,7 @@ Clique em qualquer card para explorar o código. Cada repositório contém docum
     <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://wa.me/5583996029026" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Converse-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="mailto:wesleysamuelfr@outlook.com" target="_blank">
+  <a href="wesleysamuelfr@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-Contatos-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
