@@ -32,21 +32,27 @@
 
 <h2 align="center">🚀 Projetos em Destaque</h2>
 
-<table align="center" width="100%" style="border-collapse: collapse;">
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" width="33%" style="border: none; padding: 10px;">
       <a href="https://github.com/WSamuelFR/movie-analytics-pro">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WSamuelFR&repo=movie-analytics-pro&theme=cobalt" alt="Movie Analytics Pro" />
+        <img src="movie-analytics-pro/prints/print_main.png" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" alt="Movie Analytics Pro" />
+        <br><b>Movie Analytics Pro</b><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </a>
     </td>
     <td align="center" width="33%" style="border: none; padding: 10px;">
       <a href="https://github.com/WSamuelFR/payguardian">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WSamuelFR&repo=payguardian&theme=cobalt" alt="PayGuardian" />
+        <img src="payguardian/prints/tela.png" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" alt="PayGuardian" />
+        <br><b>PayGuardian</b><br>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
       </a>
     </td>
     <td align="center" width="33%" style="border: none; padding: 10px;">
       <a href="https://github.com/WSamuelFR/projeto_memorize">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WSamuelFR&repo=projeto_memorize&theme=cobalt" alt="Projeto Memorize" />
+        <img src="projeto_memorize/prints/lobby_java.jfif" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" alt="Projeto Memorize" />
+        <br><b>Projeto Memorize</b><br>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       </a>
     </td>
   </tr>
